@@ -1,0 +1,21 @@
+nc:9类, 
+名称: ['Center', 'Donut', 'Edge-Loc', 'Edge-Ring', 'Loc', 'Near-full', 'None', 'Random', 'Scratch'],
+数据集数量: 训练集 10400张, 验证集 1300张, 测试集 1300张 .
+
+Center - 中心缺陷
+
+Donut - 环形缺陷
+
+Edge-Loc - 边缘局部缺陷
+
+Edge-Ring - 边缘环形缺陷
+
+Loc - 局部缺陷
+
+Near-full - 近全区域缺陷
+
+None - 无缺陷
+
+Random - 随机缺陷
+
+Scratch - 划痕缺陷

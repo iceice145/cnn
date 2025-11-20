@@ -1,0 +1,11 @@
+train: C:\Users\lsh\Desktop\jyjc\YOLOv11晶圆体缺陷检测系统\晶圆体缺陷数据集\train\images
+val: C:\Users\lsh\Desktop\jyjc\YOLOv11晶圆体缺陷检测系统\晶圆体缺陷数据集\valid\images
+test: ../test/images
+
+nc: 9
+names: ['Center', 'Donut', 'Edge-Loc', 'Edge-Ring', 'Loc', 'Near-full', 'None', 'Random', 'Scratch']
+
+augmentation:
+  grayscale_prob: 0.3
+  sharpen_prob: 0.4
+  edge_enhance_prob: 0.3
